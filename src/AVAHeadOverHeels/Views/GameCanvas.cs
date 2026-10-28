@@ -10,7 +10,8 @@ namespace AVAHeadOverHeels.Views;
 
 /// <summary>
 /// The screen: a fixed 1024×768 picture scaled to fit the window: the room drawn in isometric 3D, and below it
-/// the sun-and-moon window, the cauldron's wish and the charms carried. Runs the engine from a 60 Hz timer.
+/// who's on the move, the castle and its crowns, the score, the lives and a plan of the castle. Runs the engine
+/// from a 60 Hz timer.
 /// </summary>
 public sealed partial class GameCanvas : Control
 {
